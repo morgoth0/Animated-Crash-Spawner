@@ -1,6 +1,6 @@
 # Animated-Crash-Spawner
 
-A port of the ARMA2/DayZ/Epoch 1.0.6.2 Animated Crash Spawner provided to the community by JasonTM and ported with permission
+A port of the ARMA2/DayZ/Epoch 1.0.6.2 Animated Crash Spawner provided to the community by JasonTM to ARMA3/Epoch
 
 See: https://github.com/worldwidesorrow/Animated-Crash-Spawner
 
